@@ -1,0 +1,27 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.main {
+  background-color: rgb(66, 3, 3);
+  color: #fff;
+  height: auto;
+  width: 290px;
+  padding: 20px;
+  border-radius: 10px;
+  text-align: center;
+  margin: auto;
+}
+
+.display {
+  background-color: burlywood;
+  padding: 13px;
+  font-size: large;
+}
+.btn {
+  height: auto;
+  width: 40px;
+  border-radius: 5px;
+  background-color: brown;
+}
